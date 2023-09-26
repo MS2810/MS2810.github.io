@@ -102,3 +102,14 @@
     left: 0%;
   }
 }
+
+@media only screen and (max-width: 600px) {
+  .head {
+    margin: 120px 20px;
+    font-size: 60px;
+  }
+
+  .main-img {
+    margin-left: 80px;
+  }
+}
