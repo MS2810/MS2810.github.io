@@ -105,11 +105,11 @@
 
 @media only screen and (max-width: 600px) {
   .head {
-    margin: 120px 20px;
+    margin: 120px 10px;
     font-size: 60px;
   }
 
   .main-img {
-    margin-left: 80px;
+    margin-left: 0px;
   }
 }
